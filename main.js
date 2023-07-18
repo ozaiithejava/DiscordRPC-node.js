@@ -1,6 +1,6 @@
 const DiscordRPC = require('discord-rpc');
 
-const clientId = '1101635614559977523'; // Discord Developer Portal'dan aldığınız uygulama kimliği
+const clientId = 'BURAYA_APP_ID_GIR'; // Discord Developer Portal'dan aldığınız uygulama kimliği
 
 DiscordRPC.register(clientId);
 
